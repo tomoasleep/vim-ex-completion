@@ -1,0 +1,14 @@
+{
+  "name": "vim-ex-completion",
+  "version": "1.0.0",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tomoya Chiba",
+  "license": "MIT",
+  "dependencies": {
+    "command-line-views": "^1.0.0",
+    "event-kit": "^1.1.0"
+  }
+}
